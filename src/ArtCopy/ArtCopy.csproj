@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <Authors>Sergey Azarkevich</Authors>
+    <Company>Sergey Azarkevich</Company>
+    <Description>Artifacts copy tool</Description>
+    <PackageProjectUrl>https://github.com/azarkevich/artcopy.git</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/azarkevich/artcopy.git</RepositoryUrl>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <RepositoryType>Public</RepositoryType>
+  </PropertyGroup>
+
+</Project>
