@@ -1,4 +1,5 @@
 /src/.vs/
 /src/_ReSharper.Caches/
-/src/ArtCopy/bin/
-/src/ArtCopy/obj/
+bin/
+obj/
+/src/ArtCopy/.sandbox/

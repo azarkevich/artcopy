@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ArtCopy": {
+      "commandName": "Project",
+      "commandLineArgs": "--force --source-base-dir D:\\work\\artcopy\\.git --rules D:\\work\\artcopy\\src\\ArtCopy\\.sandbox\\rules --log log --summary",
+      "workingDirectory": "D:\\work\\artcopy\\src\\ArtCopy\\.sandbox"
+    }
+  }
+}
